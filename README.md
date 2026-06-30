@@ -1,5 +1,9 @@
 # 🎯 Learning Recommendation System
 
+🔗 **Live Demo:** https://learning-recommendation-system-qtutcedpmletnqikvxs4zy.streamlit.app/
+
+💻 **GitHub Repository:** https://github.com/dhrubgupta/learning-recommendation-system
+
 A personalized learning recommendation web application built with **Python**, **Streamlit**, and **PostgreSQL**.
 
 The system allows users to create an account, securely log in, track their learning progress, view completed and missing skills, receive personalized learning recommendations, and follow a structured roadmap toward their career goals.
