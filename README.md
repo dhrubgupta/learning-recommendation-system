@@ -69,12 +69,17 @@ streamlit run app.py
 
 ## 📸 Application Screenshots
 
-### Login Page
+### 🔐 Login Page
 
-*(Add screenshot here after uploading to GitHub)*
+![Login](images/login.png)
 
 ---
+### 📝 Registration Page
 
-### User Dashboard
+![Registration](images/register.png)
 
-*(Add screenshot here after uploading to GitHub)*
+
+
+### 📊 Dashboard
+
+![Dashboard](images/dashboard.png)
